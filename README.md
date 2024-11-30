@@ -12,6 +12,8 @@ To begin, use:
 git clone https://github.com/Pixelatory/ManyObjectiveDrugDesign
 ```
 
+Download the files at https://brocku-my.sharepoint.com/:f:/g/personal/na16dg_brocku_ca/EpEij4XhbOtEkA8mp-EcS04Bge6ynSrlZk5BuX7x9-rYLQ?e=ZWwKd4 and put them in ManyObjectiveDrugDesign/. In addition, extract the allmolgen zip file.
+
 ### QuickVina2-GPU
 
 1. QuickVina2-GPU can already be found in QuickVinaTwoGPU/
